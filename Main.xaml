@@ -59,6 +59,7 @@
     <Sequence.Variables>
       <Variable x:TypeArguments="s:String[]" Name="FileName" />
       <Variable x:TypeArguments="x:Int32" Name="count" />
+      <Variable x:TypeArguments="x:String" Name="LOLO" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
